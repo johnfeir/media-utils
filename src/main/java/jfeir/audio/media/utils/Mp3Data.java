@@ -1,4 +1,4 @@
-package jfeir.audio.media.utils;
+package main.java.jfeir.audio.media.utils;
 
 import java.io.File;
 import java.io.IOException;
